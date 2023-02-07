@@ -1,0 +1,15 @@
+D:\Мои документы\Рабочий стол\DZ19\bin\Debug\net7.0\DZ19.exe
+D:\Мои документы\Рабочий стол\DZ19\bin\Debug\net7.0\DZ19.deps.json
+D:\Мои документы\Рабочий стол\DZ19\bin\Debug\net7.0\DZ19.runtimeconfig.json
+D:\Мои документы\Рабочий стол\DZ19\bin\Debug\net7.0\DZ19.dll
+D:\Мои документы\Рабочий стол\DZ19\bin\Debug\net7.0\DZ19.pdb
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.csproj.AssemblyReference.cache
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.AssemblyInfoInputs.cache
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.AssemblyInfo.cs
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.csproj.CoreCompileInputs.cache
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.dll
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\refint\DZ19.dll
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.pdb
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\DZ19.genruntimeconfig.cache
+D:\Мои документы\Рабочий стол\DZ19\obj\Debug\net7.0\ref\DZ19.dll
